@@ -1,0 +1,3 @@
+[I 230914 13:38:11 flask_app:12] Flask app started
+[I 230914 13:53:02 flask_app:31] A request was made at 2023-09-14 13:53:02 with INPUT DATA {'Age': 33, 'EstimatedSalary': 177000}  and the response was highly likely to purchase
+[I 230914 13:54:52 flask_app:31] A request was made at 2023-09-14 13:54:52 with INPUT DATA {'Age': 19, 'EstimatedSalary': 177000}  and the response was highly likely to purchase
