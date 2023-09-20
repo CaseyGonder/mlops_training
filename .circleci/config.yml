@@ -1,9 +1,9 @@
 version: 2.1
 jobs:
-  staging deployment:
+  staging_deployment:
     docker:
       - image: circleci/python:3.8
-    working _directory: ~/app
+    working_directory: ~/app
     # working_directory:
     steps:
       - checkout
